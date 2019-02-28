@@ -1,1 +1,1 @@
-Натяжка верстки Cooltech-magazine на CMS Wordpress
+Integration of page online store Cooltech to CMS Wordpress
